@@ -33,7 +33,7 @@
       "apiKey": ""
     },
     "providers.openai": {
-      "apiKey": ""
+      "apiKey": "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"
     },
     "providers.perplexity": {
       "apiKey": ""
@@ -73,7 +73,7 @@
       "key": ""
     },
     "e2b": {
-      "key": ""
+      "key": "e2b_a29357532130113dd8c6e665ffa0aaea0c6d73ea"
     },
     "unsplash": {
       "key": ""
